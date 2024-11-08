@@ -24,9 +24,9 @@ Este repositório é mantido pelo grupo de alunos da faculdade. Todos os membros
 ## Contato 📬
 
 Se tiver dúvidas ou sugestões, entre em contato com algum dos membros do grupo:
-- LuaN Carlos - [Email](luan77117@gmail.com)
-- Wey Duda - [Email](weydmars@gmail.com)
-- Atos Roberto - [Email](aticosales@gmail.com)
-- Marta Ellen - [Email](martamiguel0523@gmail.com)
-- Emanuella Mendonça - [Email](emanuellamelo.m@gmail.com)
-- Gaby Melo - [Email](gabymelo.adsunibra@gmail.com)
+- LuaN Carlos - [Email](mailto:luan77117@gmail.com)
+- Wey Duda - [Email](mailto:weydmars@gmail.com)
+- Atos Roberto - [Email](mailto:aticosales@gmail.com)
+- Marta Ellen - [Email](mailto:martamiguel0523@gmail.com)
+- Emanuella Mendonça - [Email](mailto:emanuellamelo.m@gmail.com)
+- Gaby Melo - [Email](mailto:gabymelo.adsunibra@gmail.com)
