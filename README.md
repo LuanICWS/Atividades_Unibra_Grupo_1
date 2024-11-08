@@ -19,7 +19,7 @@ Este repositório é mantido pelo grupo de alunos da faculdade. Todos os membros
 ## Ferramentas e Tecnologias Usadas 🛠️
 
 - **Linguagens:** JavaScript, PHP, HTML, CSS
-**Ferramentas:** Visual Studio Code, Git, GitHub, XAMPP (para desenvolvimento em PHP)
+- **Ferramentas:** Visual Studio Code, Git, GitHub, XAMPP (para desenvolvimento em PHP)
 
 ## Contato 📬
 
