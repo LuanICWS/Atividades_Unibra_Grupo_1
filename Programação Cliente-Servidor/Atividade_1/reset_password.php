@@ -25,12 +25,15 @@ if (isset($_POST['reset_password'])) {
 
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <title>Redefinir Senha</title>
     <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
+
     <div class="login-container">
         <h2>Redefinir Senha</h2>
         <?php if ($error): ?>
@@ -46,5 +49,6 @@ if (isset($_POST['reset_password'])) {
             </form>
         <?php endif; ?>
     </div>
+
 </body>
 </html>
